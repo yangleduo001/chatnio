@@ -1,6 +1,6 @@
 mysql:
   db: chatnio
-  host: localhost
+  host: 10.11.111.62
   password: hzmu7fGW
   port: 3306
   user: root
