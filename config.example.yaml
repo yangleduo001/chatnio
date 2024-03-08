@@ -1,7 +1,7 @@
 mysql:
   db: chatnio
   host: localhost
-  password: chatnio123456
+  password: hzmu7fGW
   port: 3306
   user: root
 
@@ -16,7 +16,7 @@ secret: secret
 serve_static: true
 
 server:
-  port: 8094
+  port: 80
 system:
   general:
     backend: ""
