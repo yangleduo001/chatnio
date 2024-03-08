@@ -29,3 +29,4 @@ system:
   search:
     endpoint: https://duckduckgo-api.vercel.app
     query: 5
+
